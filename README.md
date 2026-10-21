@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Excel Sales Report Automation
 
 A small, local Python project that validates sales data from CSV or Excel and
@@ -110,3 +111,7 @@ With the virtual environment active:
 ```powershell
 python -m unittest discover -s tests -v
 ```
+=======
+# excel-sales-report-automation
+Python and Streamlit application for automated sales reporting from CSV and Excel files.
+>>>>>>> 22f6d29017eab52deb033511c304baa38dc27db6
