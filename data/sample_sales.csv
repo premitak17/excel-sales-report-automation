@@ -1,0 +1,10 @@
+order_id,date,product,quantity,unit_price
+1001,2025-01-05,Widget A,10,12.50
+1002,2025-01-18,Widget B,5,25.00
+1003,2025-02-02,Widget A,7,12.50
+1004,2025-02-14,Gadget C,3,40.00
+1004,2025-02-14,Gadget C,3,40.00
+1006,2025-03-09,Widget B,8,25.00
+1007,,Gizmo D,2,15.00
+1008,2025-03-11,Thing E,-4,8.99
+1009,not-a-date,Thing F,1,9.00

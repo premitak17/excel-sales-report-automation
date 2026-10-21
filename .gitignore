@@ -1,0 +1,20 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Secrets
+.env
+
+# Test caches
+.pytest_cache/
+
+# Generated reports
+output/*.xlsx
+
+# Keep the output folder in Git
+!output/.gitkeep
